@@ -120,5 +120,5 @@ This project is licensed under the MIT License.
 
 ---
 
-Developed by [Your Name](https://github.com/your-github). 🚀
+Developed by [Your Name](https://github.com/Thrishal1105). 🚀
 
