@@ -1,5 +1,7 @@
 # Employee Management System
 
+![image alt](https://github.com/Thrishal1105/EMS/blob/3a2ba5a4f44a83167b48d6c3bb0549e2406fe16a/ems.png)
+
 ## Overview
 
 The **Employee Management System** is a web-based application designed to manage employee records efficiently. It allows users to **add, update, delete, and search** employee details using a **MySQL database**. This system is built using **Node.js, Express.js, React.js, and MySQL**, following a RESTful API architecture.
